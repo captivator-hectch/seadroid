@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="welcome_to_seafile">Witamy w Seafile</string>
+  <string name="welcome_to_seafile">Witamy w DriveSpace</string>
   <string name="select_account">Wybierz konto</string>
   <string name="edit_account">Edytuj</string>
   <string name="ignore">Ignoruj</string>
@@ -59,10 +59,10 @@
     <item>Zdjęcia/Wideo</item>
     <item>Inne</item>
   </string-array>
-  <string name="choose_server">Wybierz serwer Seafile</string>
+  <string name="choose_server">Wybierz serwer DriveSpace</string>
   <string-array name="choose_server_array">
     <item>Single Sign-On</item>
-    <item>Inny serwer Seafile</item>
+    <item>Inny serwer DriveSpace</item>
   </string-array>
   <string name="network_down">Brak połączenia z siecią</string>
   <string name="unknow_error">Nieznany błąd</string>
@@ -151,13 +151,13 @@
   <string name="no_repo">Nie masz jeszcze żadnej biblioteki</string>
   <string name="no_album_type_data">Nie masz jeszcze żadnego albumu</string>
   <string name="no_app_available">Nie znaleziono aplikacji</string>
-  <string name="add_to_seafile">Dodaj do Seafile</string>
+  <string name="add_to_seafile">Dodaj do DriveSpace</string>
   <string name="ok">OK</string>
-  <string name="no_account">Proszę najpierw skonfigurować konto Seafile</string>
+  <string name="no_account">Proszę najpierw skonfigurować konto DriveSpace</string>
   <string name="choose_an_account">Wybierz konto</string>
   <string name="choose_a_library">Wybierz bibliotekę</string>
   <string name="choose_a_folder">Wybierz folder</string>
-  <string name="load_accounts_fail">Nie udało się wczytać kont Seafile</string>
+  <string name="load_accounts_fail">Nie udało się wczytać kont DriveSpace</string>
   <string name="load_libraries_fail">Nie udało się wczytać bibliotek</string>
   <string name="load_dir_fail">Nie udało się wczytać zawartości tego folderu</string>
   <string name="not_supported">Nieobsługiwane</string>
@@ -423,7 +423,7 @@
   <string name="settings_cuc_pick_albums">Pozwól mi wybrać albumy</string>
   <string name="settings_cuc_remote_lib_hint">Wskaż preferowane konto i bibliotekę.\nTę konfigurację można później zmienić w Ustawieniach.</string>
   <string name="settings_cuc_finish_title">Zakończ</string>
-  <string name="settings_cuc_ready">Seafile zacznie przesyłać pliki z wybranych folderów po potwierdzeniu poniżej.\nMożna bezpiecznie zamknąć aplikację w tym czasie.</string>
+  <string name="settings_cuc_ready">DriveSpace zacznie przesyłać pliki z wybranych folderów po potwierdzeniu poniżej.\nMożna bezpiecznie zamknąć aplikację w tym czasie.</string>
   <string name="settings_cuc_swipe_left">Przesuń w lewo, aby kontynuować.</string>
   <string name="settings_cuc_click_btn">Kliknij, aby zamknąć asystenta konfiguracji.</string>
   <string name="settings_cuc_loading">wczytywanie...</string>
@@ -432,7 +432,7 @@
   <string name="camera_sync_notification_title_failed">Niepowodzenie przesyłania z aparatu</string>
   <string name="camera_sync_notification_repo_missing_failed">Brakuje repozytorium serwera.</string>
   <string name="camera_sync_notification_auth_error_failed">Błąd uwierzytelniania.</string>
-  <string name="camera_sync_rename_file">%s (nazwa zmieniona przez Seafile)</string>
+  <string name="camera_sync_rename_file">%s (nazwa zmieniona przez DriveSpace)</string>
   <string name="settings_about_title">O PROGRAMIE</string>
   <string name="settings_about_privacy_policy">Polityka prywatności</string>
   <string name="settings_about_version_title">Wersja aplikacji</string>
@@ -469,7 +469,7 @@
   <string name="saf_thumbnail_not_found_exception">Nie można odnaleźć/otworzyć miniatury %s.</string>
   <string name="saf_file_not_downloaded_exception">Nie można pobrać pliku %s z serwera.</string>
   <string name="saf_write_diretory_exception">Nie można otworzyć katalogu do odczytu/zapisu.</string>
-  <string name="saf_account_not_found_exception">Nie można odnaleźć konta Seafile.</string>
+  <string name="saf_account_not_found_exception">Nie można odnaleźć konta DriveSpace.</string>
   <string name="saf_upload_path_not_available">Nie można przesłać, ścieżka niedostępna</string>
   <string name="saf_failed_to_create_directory">Nie można utworzyć folderu %s</string>
   <string name="saf_file_exist">Ten plik już istnieje</string>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="welcome_to_seafile">欢迎使用Seafile</string>
+  <string name="welcome_to_seafile">欢迎使用DriveSpace</string>
   <string name="select_account">请选择一个账户开始使用</string>
   <string name="edit_account">编辑帐户</string>
   <string name="ignore">忽略</string>
@@ -61,10 +61,10 @@
     <item>图片/视频</item>
     <item>其他</item>
   </string-array>
-  <string name="choose_server">请选择一个Seafile服务器</string>
+  <string name="choose_server">请选择一个DriveSpace服务器</string>
   <string-array name="choose_server_array">
     <item>统一登录</item>
-    <item>其他Seafile服务器</item>
+    <item>其他DriveSpace服务器</item>
   </string-array>
   <string name="network_down">无网络连接</string>
   <string name="unknow_error">未知错误</string>
@@ -151,13 +151,13 @@
   <string name="no_repo">无资料库</string>
   <string name="no_album_type_data">您还没有可预览的相册类型数据</string>
   <string name="no_app_available">没有找到应用</string>
-  <string name="add_to_seafile">添加到Seafile中</string>
+  <string name="add_to_seafile">添加到DriveSpace中</string>
   <string name="ok">确定</string>
-  <string name="no_account">首先请在Seafile上创建一个账户</string>
+  <string name="no_account">首先请在DriveSpace上创建一个账户</string>
   <string name="choose_an_account">请选择一个账户</string>
   <string name="choose_a_library">请选择一个资料库</string>
   <string name="choose_a_folder">请选择一个文件夹</string>
-  <string name="load_accounts_fail">加载Seafile账户失败</string>
+  <string name="load_accounts_fail">加载DriveSpace账户失败</string>
   <string name="load_libraries_fail">加载资料库失败</string>
   <string name="load_dir_fail">加载此文件夹的内容失败</string>
   <string name="not_supported">暂未支持</string>
@@ -332,7 +332,7 @@
   <string name="biometric_lock">应用锁</string>
   <string name="biometric_lock_on">通过指纹或者设备 PIN 码来解锁</string>
   <string name="biometric_lock_off">未受应用锁保护</string>
-  <string name="biometric_prompt_title">解锁 Seafile</string>
+  <string name="biometric_prompt_title">解锁 DriveSpace</string>
   <string name="biometric_prompt_subtitle">验证您的身份以继续</string>
   <string name="lock_timeout_title">锁定</string>
   <string name="lock_timeout_immediately">立即</string>
@@ -429,7 +429,7 @@
   <string name="settings_cuc_pick_albums">选择备份相册</string>
   <string name="settings_cuc_remote_lib_hint">选择你要配置的选项，这些设置以后可以在设置菜单里修改。</string>
   <string name="settings_cuc_finish_title">完成</string>
-  <string name="settings_cuc_ready">Seafile将会从你指定的文件夹上传文件，在这个过程中你可以随时关闭该应用</string>
+  <string name="settings_cuc_ready">DriveSpace将会从你指定的文件夹上传文件，在这个过程中你可以随时关闭该应用</string>
   <string name="settings_cuc_swipe_left">向左滑进入下一步</string>
   <string name="settings_cuc_click_btn">点击按钮关闭配置助手</string>
   <string name="settings_cuc_loading">加载中...</string>
@@ -438,7 +438,7 @@
   <string name="camera_sync_notification_title_failed">照片上传失败</string>
   <string name="camera_sync_notification_repo_missing_failed">服务器上不存在该资料库</string>
   <string name="camera_sync_notification_auth_error_failed">授权失败</string>
-  <string name="camera_sync_rename_file"> (由Seafile重命名为)%s</string>
+  <string name="camera_sync_rename_file"> (由DriveSpace重命名为)%s</string>
   <string name="settings_about_title">关于</string>
   <string name="settings_about_privacy_policy">隐私政策</string>
   <string name="settings_about_version_title">应用版本号</string>
@@ -446,18 +446,18 @@
   <string name="settings_export_run_logs">导出日志</string>
   <string name="settings_about_author_info">
 <![CDATA[
-<h2>Seafile Android Client</h2>
+<h2>DriveSpace Android Client</h2>
 <p>%s</p>
 <h5>联系我们</h5>
 <p>
-Twitter: Seafile<br>
-Email: support@seafile.com<br>
+Twitter: DriveSpace<br>
+Email: support@drive.space<br>
 </p>
 <h5>贡献</h5>
 <p>https://github.com/haiwen/seadroid.git</P>
 <h5>备案编号</h5>
 <p>京ICP备12015883号-10A</p>
-<h5>Copyright ©2013-2026 Seafile Ltd.</h5>
+<h5>Copyright ©2013-2026 DriveSpace Ltd.</h5>
 ]]></string>
   <string name="settings_advance_feature_title">高级特性</string>
   <string name="settings_transfer_title">上传 &amp; 下载</string>
@@ -489,7 +489,7 @@ Email: support@seafile.com<br>
   <string name="saf_thumbnail_not_found_exception">找不到（或）打不开缩略图%s</string>
   <string name="saf_file_not_downloaded_exception">不能从服务器下载%s</string>
   <string name="saf_write_diretory_exception">不能进入目录进行读取（或）写入</string>
-  <string name="saf_account_not_found_exception">无法找到Seafile账户</string>
+  <string name="saf_account_not_found_exception">无法找到DriveSpace账户</string>
   <string name="saf_upload_path_not_available">无效路径，无法上传</string>
   <string name="saf_failed_to_create_directory">无法创建目录%s</string>
   <string name="saf_file_exist">该文件已存在</string>
@@ -556,10 +556,10 @@ Email: support@seafile.com<br>
     <item quantity="other">正在下载%1$d个文件(%2$d%%)</item>
   </plurals>
   <string name="notification_download_completed">下载完成</string>
-  <string name="notification_background_file_monitor_channel">Seafile 后台文件监控服务</string>
-  <string name="notification_background_file_monitor_desc">用于 Seafile 后台文件监控持久通知</string>
-  <string name="notification_background_file_monitor_title">Seafile 文件监控服务</string>
-  <string name="notification_background_file_monitor_content">Seafile 正在后台监控文件变化和自动上传文件</string>
+  <string name="notification_background_file_monitor_channel">DriveSpace 后台文件监控服务</string>
+  <string name="notification_background_file_monitor_desc">用于 DriveSpace 后台文件监控持久通知</string>
+  <string name="notification_background_file_monitor_title">DriveSpace 文件监控服务</string>
+  <string name="notification_background_file_monitor_content">DriveSpace 正在后台监控文件变化和自动上传文件</string>
   <!--Gallery-->
   <string name="gallery_load_photos_error">加载图片错误</string>
   <string name="gallery_encrypted_repo_not_supported">不支持加密资料库</string>

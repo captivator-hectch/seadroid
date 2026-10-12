@@ -8,7 +8,7 @@ public class Constants {
         throw new IllegalStateException("Constants class"); //NON-NLS(1)
     }
 
-    public static final String URL_PRIVACY = "https://www.seafile.com/privacy/";
+    public static final String URL_PRIVACY = "https://drive.space/privacy";
 
     public static class UA {
         private UA() {

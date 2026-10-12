@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="welcome_to_seafile">Welkom bij Seafile</string>
+  <string name="welcome_to_seafile">Welkom bij DriveSpace</string>
   <string name="select_account">Kies een account om te beginnen</string>
   <string name="edit_account">Bewerken</string>
   <string name="ignore">Negeren</string>
@@ -27,7 +27,7 @@
   <string name="delete_dir">Map verwijderen</string>
   <string name="name_hint">Naam</string>
   <string name="server">Server</string>
-  <string name="server_hint">Server, zoals cloud.seafile.com</string>
+  <string name="server_hint">Server, zoals cloud.drive.space</string>
   <string name="email_hint">E-mailadres of gebruikersnaam</string>
   <string name="passwd_hint">Wachtwoord</string>
   <string name="passwd_min_len_limit_hint">Wachtwoord (tenminste %d tekens)</string>
@@ -59,10 +59,10 @@
     <item>Foto\'s/videos</item>
     <item>Overig</item>
   </string-array>
-  <string name="choose_server">Kies een Seafile server</string>
+  <string name="choose_server">Kies een DriveSpace server</string>
   <string-array name="choose_server_array">
     <item>Single Sign-On</item>
-    <item>Other Seafile Server</item>
+    <item>Other DriveSpace Server</item>
   </string-array>
   <string name="network_down">Geen netwerkverbinding</string>
   <string name="unknow_error">Onbekende fout</string>
@@ -149,13 +149,13 @@
   <string name="no_repo">Je hebt nog geen bibliotheken</string>
   <string name="no_album_type_data">Geen albumgegevens gevonden</string>
   <string name="no_app_available">Geen app gevonden</string>
-  <string name="add_to_seafile">Toevoegen aan Seafile</string>
+  <string name="add_to_seafile">Toevoegen aan DriveSpace</string>
   <string name="ok">Ok</string>
-  <string name="no_account">Gelieve eerste een Seafile account aan te maken</string>
+  <string name="no_account">Gelieve eerste een DriveSpace account aan te maken</string>
   <string name="choose_an_account">Kies een account</string>
   <string name="choose_a_library">Kies een bibliotheek</string>
   <string name="choose_a_folder">Kies een map</string>
-  <string name="load_accounts_fail">Kon Seafile-accounts niet laden</string>
+  <string name="load_accounts_fail">Kon DriveSpace-accounts niet laden</string>
   <string name="load_libraries_fail">Kon bibliotheken niet laden</string>
   <string name="load_dir_fail">Kon de inhoud van deze map niet laden</string>
   <string name="not_supported">Niet ondersteund</string>
@@ -422,7 +422,7 @@
   <string name="camera_sync_notification_title_failed">Camera-upload mislukt</string>
   <string name="camera_sync_notification_repo_missing_failed">Server repo mist.</string>
   <string name="camera_sync_notification_auth_error_failed">Authenticatiefout</string>
-  <string name="camera_sync_rename_file">%s (hernoemd door Seafile)</string>
+  <string name="camera_sync_rename_file">%s (hernoemd door DriveSpace)</string>
   <string name="settings_about_title">Over</string>
   <string name="settings_about_privacy_policy">Privacybeleid</string>
   <string name="settings_about_version_title">App-versie</string>
@@ -459,7 +459,7 @@
   <string name="saf_thumbnail_not_found_exception">Kon miniatuur %s niet vinden/openen.</string>
   <string name="saf_file_not_downloaded_exception">Kon bestand %s niet van de server downloaden.</string>
   <string name="saf_write_diretory_exception">Kan map niet openen voor lezen/schrijven</string>
-  <string name="saf_account_not_found_exception">Kon Seafile-account niet vinden</string>
+  <string name="saf_account_not_found_exception">Kon DriveSpace-account niet vinden</string>
   <string name="saf_upload_path_not_available">Geen pad aanwezig, niet in staat tot uploaden</string>
   <string name="saf_failed_to_create_directory">Kon map %s niet aanmaken</string>
   <string name="saf_file_exist">Dat bestand bestaat reeds</string>

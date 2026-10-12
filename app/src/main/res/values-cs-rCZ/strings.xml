@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="welcome_to_seafile">Vítejte v Seafile</string>
+  <string name="welcome_to_seafile">Vítejte v DriveSpace</string>
   <string name="select_account">Nejprve vyberte svůj účet</string>
   <string name="edit_account">Upravit</string>
   <string name="ignore">Ignorovat</string>
@@ -59,7 +59,7 @@
     <item>Fotky/Videa</item>
     <item>Ostatní</item>
   </string-array>
-  <string name="choose_server">Vyberte Seafile server</string>
+  <string name="choose_server">Vyberte DriveSpace server</string>
   <string name="network_down">Nejste připojen k síti</string>
   <string name="unknow_error">Neznámá chyba</string>
   <string name="invalid_server_address">Špatná adresa serveru</string>
@@ -130,13 +130,13 @@
   <string name="no_repo">Zatím nemáte žádné knihovny</string>
   <string name="no_album_type_data">Není nalezena žádná data pro tento typ albumu</string>
   <string name="no_app_available">Není nalezena žádná aplikace</string>
-  <string name="add_to_seafile">Přidat do Seafile</string>
+  <string name="add_to_seafile">Přidat do DriveSpace</string>
   <string name="ok">OK</string>
   <string name="no_account">Prosím, nejprve nastavte účet</string>
   <string name="choose_an_account">Vyberte účet</string>
   <string name="choose_a_library">Vyberte knihovnu</string>
   <string name="choose_a_folder">Vyberte složku</string>
-  <string name="load_accounts_fail">Chyba při načítání Seafile účtů</string>
+  <string name="load_accounts_fail">Chyba při načítání DriveSpace účtů</string>
   <string name="load_libraries_fail">Chyba při načítání knihoven</string>
   <string name="load_dir_fail">Chyba při načítání obsahu této složky</string>
   <string name="not_supported">Tento typ souboru není podporován</string>
@@ -399,7 +399,7 @@
   <string name="settings_about_version_title">Verze aplikace</string>
   <string name="settings_about_author_title">O autorovi</string>
   <string name="settings_export_run_logs">Exportovat logy běhu</string>
-  <string name="settings_about_author_info">Seadroid je vytvořeno Seafile s.r.o.</string>
+  <string name="settings_about_author_info">Seadroid je vytvořeno DriveSpace s.r.o.</string>
   <string name="settings_advance_feature_title">Pokročilé funkce</string>
   <string name="settings_transfer_title">Přenos dat</string>
   <string name="settings_storage_title">Úroveň úložiště</string>
@@ -430,7 +430,7 @@
   <string name="saf_thumbnail_not_found_exception">Nelze najít/otevřít miniaturu %s.</string>
   <string name="saf_file_not_downloaded_exception">Nelze stáhnout soubor %s ze serveru.</string>
   <string name="saf_write_diretory_exception">Nelze otevřít složku pro čtení/zápis.</string>
-  <string name="saf_account_not_found_exception">Nelze nalézt Seafile účet.</string>
+  <string name="saf_account_not_found_exception">Nelze nalézt DriveSpace účet.</string>
   <string name="saf_upload_path_not_available">Nelze najít cestu pro nahrávání.</string>
   <string name="saf_failed_to_create_directory">Nelze vytvořit složku.</string>
   <string name="saf_file_exist">Soubor již existuje.</string>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="welcome_to_seafile">Seafile ga hush kelibsiz</string>
+  <string name="welcome_to_seafile">DriveSpace ga hush kelibsiz</string>
   <string name="select_account">Boshlash uchun akkaunt tanlang</string>
   <string name="edit_account">Tahrirlash</string>
   <string name="ignore">Etibor bermaslik</string>
@@ -59,10 +59,10 @@
     <item>Rasimlar/Videolar</item>
     <item>Boshqalar</item>
   </string-array>
-  <string name="choose_server">Seafile serverini tanlang</string>
+  <string name="choose_server">DriveSpace serverini tanlang</string>
   <string-array name="choose_server_array">
     <item>Yagona Kirish</item>
-    <item>Boshqa Seafile Server</item>
+    <item>Boshqa DriveSpace Server</item>
   </string-array>
   <string name="network_down">Internet bilan aloqa yo\'q</string>
   <string name="unknow_error">Kutilmagan xatolik</string>
@@ -148,13 +148,13 @@
   <string name="no_repo">Sizda hali kutubxonalar yo\'q</string>
   <string name="no_album_type_data">Sizda oldindan-koʻrish uchun albom turlari yoʻq.</string>
   <string name="no_app_available">Hech qanday ilova topilmadi</string>
-  <string name="add_to_seafile">Seafile ga qo\'shish</string>
+  <string name="add_to_seafile">DriveSpace ga qo\'shish</string>
   <string name="ok">OK</string>
-  <string name="no_account">Iltimos oldin Seafile da akkaunt yarating</string>
+  <string name="no_account">Iltimos oldin DriveSpace da akkaunt yarating</string>
   <string name="choose_an_account">Akkaunt tanlash</string>
   <string name="choose_a_library">Kutubxona tanlash</string>
   <string name="choose_a_folder">Papka tanlash</string>
-  <string name="load_accounts_fail">Seafile akkaunlarini yuklab bo\'lmadi</string>
+  <string name="load_accounts_fail">DriveSpace akkaunlarini yuklab bo\'lmadi</string>
   <string name="load_libraries_fail">Kutubxonalarni yuklab bo\'lmadi</string>
   <string name="load_dir_fail">Bu papkadagi narsalarni yuklab bo\'lmadi</string>
   <string name="not_supported">Hozirgi paytda qo\'llab bo\'lmaydi</string>
@@ -409,7 +409,7 @@
   <string name="settings_cuc_pick_albums">Menga fotoalbomlarimni tanlashga ber</string>
   <string name="settings_cuc_remote_lib_hint">O\'zingiz hohlagan akkaunt va kutubxonalarni tanlang. \nBu variyantlarni keyinchailk Sozlamalarda o\'zgartirishingiz mumkin.</string>
   <string name="settings_cuc_finish_title">Yakunlash</string>
-  <string name="settings_cuc_ready">Quyidagini tasdiqlaganingizdan so\'ng Seafile fayllarni siz tanlagan papkalardan yuklashni boshlaydi. \nBu jarayonda bemalol ilovani yopishingiz mumkun.</string>
+  <string name="settings_cuc_ready">Quyidagini tasdiqlaganingizdan so\'ng DriveSpace fayllarni siz tanlagan papkalardan yuklashni boshlaydi. \nBu jarayonda bemalol ilovani yopishingiz mumkun.</string>
   <string name="settings_cuc_swipe_left">Davom etish uchun chapga suring.</string>
   <string name="settings_cuc_click_btn">Konfiguratsiya yordamchisini yopish uchun bosing.</string>
   <string name="settings_cuc_loading">yuklanmoqda...</string>
@@ -418,7 +418,7 @@
   <string name="camera_sync_notification_title_failed">Kameradan yuklashda xatolik</string>
   <string name="camera_sync_notification_repo_missing_failed">Server ombori yo\'qolgan.</string>
   <string name="camera_sync_notification_auth_error_failed">Autentifikatsiya xatosi.</string>
-  <string name="camera_sync_rename_file">%s (Seafile tomonidan qayta nomlangan)</string>
+  <string name="camera_sync_rename_file">%s (DriveSpace tomonidan qayta nomlangan)</string>
   <string name="settings_about_title">XAQIDA</string>
   <string name="settings_about_privacy_policy">Maxfiylik siyosati</string>
   <string name="settings_about_version_title">Ilova Versiyasi</string>
@@ -426,16 +426,16 @@
   <string name="settings_export_run_logs">Joriy ilova loglarini yuklab olish</string>
   <string name="settings_about_author_info">
         <![CDATA[
-        <h5>Seafile Android Klient</h5>
+        <h5>DriveSpace Android Klient</h5>
         <p>%s</p>
         <h5>Biz bilan bog\'laning</h5>
         <p>
-            Twitter: Seafile<br>
-            Email: support@seafile.com<br>
+            Twitter: DriveSpace<br>
+            Email: support@drive.space<br>
         </p>
         <h5>Hissalar</h5>
         <p>https://github.com/haiwen/seadroid.git</P>
-        <h5>Copyright ©2013-2026 Seafile Ltd.</h5>
+        <h5>Copyright ©2013-2026 DriveSpace Ltd.</h5>
         ]]>
     </string>
   <string name="settings_advance_feature_title">KENGAYTIRILGAN XUSUSIYATLAR</string>
@@ -468,7 +468,7 @@
   <string name="saf_thumbnail_not_found_exception">%s thumbnail ni topib/ochib bo\'lmadi.</string>
   <string name="saf_file_not_downloaded_exception">Fayl %s ni serverdan yuklab olib bo\'lmadi.</string>
   <string name="saf_write_diretory_exception">Papgani o\'qishga/yozishga ochib bo\'lmadi.</string>
-  <string name="saf_account_not_found_exception">Seafile akkuntini topib bo\'lmadi.</string>
+  <string name="saf_account_not_found_exception">DriveSpace akkuntini topib bo\'lmadi.</string>
   <string name="saf_upload_path_not_available">Yuklab bo\'lmadi, yo\'l mavjud emas</string>
   <string name="saf_failed_to_create_directory">Papka %s ni yaratib bo\'lmadi</string>
   <string name="saf_file_exist">Bu fayl allaqachon bor</string>

@@ -110,7 +110,7 @@ android {
                 variant.outputs.all { output ->
                     if (output.outputFile != null && output.outputFile.name.endsWith('.apk')) {
                         if (variant.name == "debug") {
-                            outputFileName = "seafile-debug-" + defaultConfig.versionName + ".apk"
+                            outputFileName = "DriveSpace-debug-" + defaultConfig.versionName + ".apk"
                         }
                     }
                 }
@@ -157,7 +157,7 @@ android {
                                     versionName = prefix + "(" + suffix + ")"
                                 }
 
-                                def newOutputFileName = "seafile_${versionName}_patch${buildCount}.apk"
+                                def newOutputFileName = "DriveSpace_${versionName}_patch${buildCount}.apk"
                                 newOutputFileName = newOutputFileName.replace(" ", "_").replace("-", "_")
                                 def apkFile = output.outputFile
                                 def newApkFile = new File(apkFile.parent, newOutputFileName)

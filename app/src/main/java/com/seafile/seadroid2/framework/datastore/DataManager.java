@@ -37,7 +37,7 @@ public class DataManager {
      * The account directory structure of Seafile is like this:
      * <p>
      * StorageManager.getMediaDir()
-     * |__ foo@gmail.com (cloud.seafile.com)
+     * |__ foo@gmail.com (cloud.drive.space)
      * |__ Photos
      * |__ Musics
      * |__ ...
@@ -50,7 +50,7 @@ public class DataManager {
      * In the above directory, the user has used two accounts.
      * <p>
      * 1. One account has email "foo@gmail.com" and server
-     * "cloud.seafile.com". Two repos, "Photos" and "Musics", has been
+     * "cloud.drive.space". Two repos, "Photos" and "Musics", has been
      * viewed.
      * <p>
      * 2. Another account has email "foo@mycompany.com", and server
@@ -100,7 +100,7 @@ public class DataManager {
      * repo_name: My Library
      * <p>
      * The local repo dir will be:
-     * /storage/emulated/0/Android/data/com.seafile.seadroid2(.debug)/foo@bar.com (cloud.seafile.com)/My Library_1234
+     * /storage/emulated/0/Android/data/com.seafile.seadroid2(.debug)/foo@bar.com (cloud.drive.space)/My Library_1234
      */
     public static File getLocalRepoDir(Account account, String repo_id, String repo_name) {
         if (TextUtils.isEmpty(repo_id)) {

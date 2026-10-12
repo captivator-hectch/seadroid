@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="welcome_to_seafile">Velkommen til Seafile</string>
+  <string name="welcome_to_seafile">Velkommen til DriveSpace</string>
   <string name="select_account">Velg en konto for å starte</string>
   <string name="edit_account">Redigere</string>
   <string name="ignore">Ignorer</string>
@@ -59,10 +59,10 @@
     <item>Bilder/Videoer</item>
     <item>Annet</item>
   </string-array>
-  <string name="choose_server">Velg en Seafile-server</string>
+  <string name="choose_server">Velg en DriveSpace-server</string>
   <string-array name="choose_server_array">
     <item>Single Sign-On</item>
-    <item>Other Seafile Server</item>
+    <item>Other DriveSpace Server</item>
   </string-array>
   <string name="network_down">Ingen nettverkstilkobling</string>
   <string name="unknow_error">Ukjent feil</string>
@@ -149,13 +149,13 @@
   <string name="no_repo">Du har ingen biblioteker enda</string>
   <string name="no_album_type_data">Du har ingen albummer enda</string>
   <string name="no_app_available">Ingen app finnes</string>
-  <string name="add_to_seafile">Legg til i Seafile</string>
+  <string name="add_to_seafile">Legg til i DriveSpace</string>
   <string name="ok">OK</string>
-  <string name="no_account">Vennligst opprett en konto i Seafile først.</string>
+  <string name="no_account">Vennligst opprett en konto i DriveSpace først.</string>
   <string name="choose_an_account">Velg en konto</string>
   <string name="choose_a_library">Velg et bibliotek</string>
   <string name="choose_a_folder">Velg en mappe</string>
-  <string name="load_accounts_fail">Klarte ikke å laste inn Seafilekontoene</string>
+  <string name="load_accounts_fail">Klarte ikke å laste inn DriveSpacekontoene</string>
   <string name="load_libraries_fail">Klarte ikke å laste inn bibliotekene</string>
   <string name="load_dir_fail">Klarte ikke å laste inn innholdet i denne mappen</string>
   <string name="not_supported">Denne typen fil er ikke støttet</string>
@@ -460,7 +460,7 @@
   <string name="saf_thumbnail_not_found_exception">Kunne ikke finne/ åpne miniatyrbilde %s.</string>
   <string name="saf_file_not_downloaded_exception">Kunne ikke laste ned filen %s fra serveren.</string>
   <string name="saf_write_diretory_exception">Kunne ikke åpne mappen for lesing/ skriving.</string>
-  <string name="saf_account_not_found_exception">Kunne ikke fille Seafile konto.</string>
+  <string name="saf_account_not_found_exception">Kunne ikke fille DriveSpace konto.</string>
   <string name="saf_upload_path_not_available">Klarte ikke å laste opp. Ingen tilgjengelig sti.</string>
   <string name="saf_failed_to_create_directory">Kunne ikke opprette mappe %s</string>
   <string name="saf_file_exist">Filen %s er allerede</string>

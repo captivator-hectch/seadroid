@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="welcome_to_seafile">Benvenuto in Seafile</string>
+  <string name="welcome_to_seafile">Benvenuto in DriveSpace</string>
   <string name="select_account">Scegli un account per iniziare</string>
   <string name="edit_account">Modifica</string>
   <string name="ignore">Ignora</string>
@@ -23,7 +23,7 @@
   <string name="move_folder">Sposta cartella</string>
   <string name="delete_dir">Cancella cartella</string>
   <string name="name_hint">Nome</string>
-  <string name="server">Server Seafile</string>
+  <string name="server">Server DriveSpace</string>
   <string name="server_hint">Indirizzo server</string>
   <string name="email_hint">Indirizzo email</string>
   <string name="passwd_hint">Password</string>
@@ -53,10 +53,10 @@
     <item>Foto/Video</item>
     <item>Altro</item>
   </string-array>
-  <string name="choose_server">Scegli un Server Seafile</string>
+  <string name="choose_server">Scegli un Server DriveSpace</string>
   <string-array name="choose_server_array">
     <item>Single Sign-On</item>
-    <item>Other Seafile Server</item>
+    <item>Other DriveSpace Server</item>
   </string-array>
   <string name="network_down">Nessun connessione disponibile</string>
   <string name="unknow_error">Error sconosciuto</string>
@@ -142,7 +142,7 @@
   <string name="no_repo">Non hai ancora librerie</string>
   <string name="no_album_type_data">Nessun album trovato</string>
   <string name="no_app_available">Nessun app trovata</string>
-  <string name="add_to_seafile">Aggiungi a Seafile</string>
+  <string name="add_to_seafile">Aggiungi a DriveSpace</string>
   <string name="ok">OK</string>
   <string name="no_account">Non hai ancora account</string>
   <string name="choose_an_account">Scegli un account</string>
@@ -415,7 +415,7 @@
   <string name="settings_about_version_title">Versione</string>
   <string name="settings_about_author_title">Autore</string>
   <string name="settings_export_run_logs">Esporta Log di Esecuzione</string>
-  <string name="settings_about_author_info">Autore: Seafile</string>
+  <string name="settings_about_author_info">Autore: DriveSpace</string>
   <string name="settings_advance_feature_title">Funzioni Avanzate</string>
   <string name="settings_transfer_title">Trasferimento</string>
   <string name="settings_storage_title">Memoria</string>

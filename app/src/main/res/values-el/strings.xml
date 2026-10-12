@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="welcome_to_seafile">Καλωσήρθατε στο Seafile</string>
+  <string name="welcome_to_seafile">Καλωσήρθατε στο DriveSpace</string>
   <string name="select_account">Επιλέξτε ένα λογαριασμό για να ξεκινήσετε</string>
   <string name="edit_account">Επεξεργασία</string>
   <string name="ignore">Απορρίψιμο</string>
@@ -24,7 +24,7 @@
   <string name="delete_dir">Διαγραφή φακέλου</string>
   <string name="name_hint">Όνομα</string>
   <string name="server">Διακομιστής</string>
-  <string name="server_hint">Διακομιστής, όπως cloud.seafile.com</string>
+  <string name="server_hint">Διακομιστής, όπως cloud.drive.space</string>
   <string name="email_hint">Διεύθυνση ηλε.ταχυδρομείου</string>
   <string name="passwd_hint">Κωδικός</string>
   <string name="passwd_min_len_limit_hint">Ο κωδικός πρέπει να έχει τουλάχιστον 6 χαρακτήρες</string>
@@ -53,10 +53,10 @@
     <item>Φωτογραφίες/Βίντεο</item>
     <item>Άλλο</item>
   </string-array>
-  <string name="choose_server">Επιλέξτε διακομιστή Seafile</string>
+  <string name="choose_server">Επιλέξτε διακομιστή DriveSpace</string>
   <string-array name="choose_server_array">
     <item>Single Sign-On</item>
-    <item>Other Seafile Server</item>
+    <item>Other DriveSpace Server</item>
   </string-array>
   <string name="network_down">Δεν υπάρχει σύνδεση στο διαδίκτυο</string>
   <string name="unknow_error">Άγνωστο σφάλμα</string>
@@ -141,13 +141,13 @@
   <string name="no_repo">Δεν έχετε ακόμα βιβλιοθήκες</string>
   <string name="no_album_type_data">Δεν βρέθηκαν δεδομένα τύπου άλμπου</string>
   <string name="no_app_available">Δεν μπορεί να βρέθει καμιά εφαρμογή</string>
-  <string name="add_to_seafile">Προσθήκη στο Seafile</string>
+  <string name="add_to_seafile">Προσθήκη στο DriveSpace</string>
   <string name="ok">OK</string>
-  <string name="no_account">Παρακαλώ δημιουργήστε έναν λογαριασμό στο Seafile πρώτα</string>
+  <string name="no_account">Παρακαλώ δημιουργήστε έναν λογαριασμό στο DriveSpace πρώτα</string>
   <string name="choose_an_account">Επιλέξτε ένα λογαριασμό</string>
   <string name="choose_a_library">Επιλέξτε μία βιβλιοθήκη</string>
   <string name="choose_a_folder">Επιλέξτε έναν φάκελο</string>
-  <string name="load_accounts_fail">Αποτυχία φόρτωσης λογαριασμών Seafile</string>
+  <string name="load_accounts_fail">Αποτυχία φόρτωσης λογαριασμών DriveSpace</string>
   <string name="load_libraries_fail">Αποτυχία φόρτωσης βιβλιοθηκών</string>
   <string name="load_dir_fail">Αποτυχία φόρτωσης των περιεχομένων αυτού του φακέλου</string>
   <string name="not_supported">Αυτός ο τύπος κοινόχρηστου στοιχείου δεν είναι διαθέσιμος</string>
@@ -373,7 +373,7 @@
   <string name="settings_camera_upload_advanced_custom_directories_off">Απενεργοποίηση προσαρμοσμένου φάκελου αποθήκευσης</string>
   <!--Camera Upload Configuration View-->
   <string name="settings_cuc_title">Ρυθμίσεις μεταφόρτωσης φωτογραφιών</string>
-  <string name="settings_cuc_welcome_text">Καλώς ήρθατε στο Seafile. Για να ξεκινήσετε τη μεταφόρτωση φωτογραφιών, παρακαλώ ακολουθήστε τα βήματα παρακάτω.</string>
+  <string name="settings_cuc_welcome_text">Καλώς ήρθατε στο DriveSpace. Για να ξεκινήσετε τη μεταφόρτωση φωτογραφιών, παρακαλώ ακολουθήστε τα βήματα παρακάτω.</string>
   <string name="settings_cuc_network_title">Επιλογή δικτύου</string>
   <string name="settings_cuc_network_wifi">Μεταφόρτωση από το Wi-Fi</string>
   <string name="settings_cuc_network_data_plan">Μεταφόρτωση από το δεδομένο πλάνο δεδομένων</string>
@@ -388,7 +388,7 @@
     <item quantity="other">Διαφορετικά φακέλοι αποθήκευσης</item>
   </plurals>
   <string name="settings_cuc_remote_lib_title">Επιλογή βιβλιοθήκης αποθήκευσης</string>
-  <string name="settings_cuc_remote_lib_account">Διαπιστώστε τον λογαριασμό Seafile</string>
+  <string name="settings_cuc_remote_lib_account">Διαπιστώστε τον λογαριασμό DriveSpace</string>
   <string name="settings_cuc_remote_lib_repo">Διαπιστώστε τη βιβλιοθήκη αποθήκευσης</string>
   <string name="settings_cuc_upload_to_parent_folder">Μεταφόρτωση σε πατέρα φάκελο</string>
   <string name="settings_cuc_auto_scan">Αυτόματη αναζήτηση φακέλων</string>
@@ -405,7 +405,7 @@
   <string name="camera_sync_notification_repo_missing_failed">Η επιλεγμένη βιβλιοθήκη δεν υπάρχει</string>
   <string name="camera_sync_notification_auth_error_failed">Αδυναμία αυθεντικοποίησης</string>
   <string name="camera_sync_rename_file">Μετατονομασία αρχείου</string>
-  <string name="settings_about_title">Σχετικά με το Seafile</string>
+  <string name="settings_about_title">Σχετικά με το DriveSpace</string>
   <string name="settings_about_privacy_policy">Πολιτική απορρήτου</string>
   <string name="settings_about_version_title">Έκδοση</string>
   <string name="settings_about_author_title">Συγγραφέας</string>

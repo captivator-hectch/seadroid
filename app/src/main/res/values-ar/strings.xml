@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="welcome_to_seafile">مرحبا بك في سيفايل Seafile</string>
+  <string name="welcome_to_seafile">مرحبا بك في سيفايل DriveSpace</string>
   <string name="select_account">اختر حسابًا للبدء</string>
   <string name="edit_account">تحرير</string>
   <string name="ignore">تجاهل</string>
@@ -48,10 +48,10 @@
   <string name="transfer_tasks">قائمة النقل</string>
   <string name="accounts">الحسابات</string>
   <string name="settings">الإعدادت</string>
-  <string name="choose_server">اختر خادم سيفايل -Seafile-</string>
+  <string name="choose_server">اختر خادم سيفايل -DriveSpace-</string>
   <string-array name="choose_server_array">
     <item>تسجيل الدخول الموحّد</item>
-    <item>اختر خادم Seafile</item>
+    <item>اختر خادم DriveSpace</item>
   </string-array>
   <string name="network_down">لا يوجد إتصال بالشبكة</string>
   <string name="unknow_error">خطأ غير معروف</string>
@@ -143,13 +143,13 @@
   <string name="no_repo">لا يوجد مكتبات بعد</string>
   <string name="no_album_type_data">ليس لديك أي أنواع ألبومات متاحة للمعاينة.</string>
   <string name="no_app_available">لا يمكن العثور على التطبيق</string>
-  <string name="add_to_seafile">إضافة إلى Seafile</string>
+  <string name="add_to_seafile">إضافة إلى DriveSpace</string>
   <string name="ok">حسنا</string>
-  <string name="no_account">يرجى إعداد حساب على Seafile أولاً.</string>
+  <string name="no_account">يرجى إعداد حساب على DriveSpace أولاً.</string>
   <string name="choose_an_account">اختر حسابًا</string>
   <string name="choose_a_library">اختر مكتبةً</string>
   <string name="choose_a_folder">اختر مجلدًا</string>
-  <string name="load_accounts_fail">فشل في تحميل حسابات Seafile</string>
+  <string name="load_accounts_fail">فشل في تحميل حسابات DriveSpace</string>
   <string name="load_libraries_fail">فشل في تحميل المكتبات</string>
   <string name="load_dir_fail">فشل في تحميل محتويات هذا المجلد</string>
   <string name="not_supported">غير مدعوم في هذا الوقت</string>
@@ -409,7 +409,7 @@
   <string name="settings_cuc_pick_albums">دعني أختار ألبومات الصور خاصتي</string>
   <string name="settings_cuc_remote_lib_hint">اختر الحساب والمكتبة المفضلة لديك. \nيمكنك تغيير هذه الخيارات لاحقًا من الإعدادات.</string>
   <string name="settings_cuc_finish_title">الإنهاء</string>
-  <string name="settings_cuc_ready">سيبدأ سيفايل -Seafile- برفع الملفات من المجلدات المحددة بعد تأكيدك أدناه.\nيمكنك إغلاق التطبيق أثناء هذه العملية.</string>
+  <string name="settings_cuc_ready">سيبدأ سيفايل -DriveSpace- برفع الملفات من المجلدات المحددة بعد تأكيدك أدناه.\nيمكنك إغلاق التطبيق أثناء هذه العملية.</string>
   <string name="settings_cuc_swipe_left">اسحب إلى اليسار للمتابعة.</string>
   <string name="settings_cuc_click_btn">انقر لإغلاق مساعد الضبط.</string>
   <string name="settings_cuc_loading">تحميل...</string>
@@ -418,7 +418,7 @@
   <string name="camera_sync_notification_title_failed">فشل تحميل صور آلة التصوير</string>
   <string name="camera_sync_notification_repo_missing_failed">مستودع الخادم مفقود.</string>
   <string name="camera_sync_notification_auth_error_failed">خطأ في المصادقة.</string>
-  <string name="camera_sync_rename_file">%s (تمت إعادة تسميته بواسطة Seafile)</string>
+  <string name="camera_sync_rename_file">%s (تمت إعادة تسميته بواسطة DriveSpace)</string>
   <string name="settings_about_title">حول</string>
   <string name="settings_about_privacy_policy">سياسة الخصوصية</string>
   <string name="settings_about_version_title">إصدار التطبيق</string>
@@ -426,16 +426,16 @@
   <string name="settings_export_run_logs">تصدير ملفات السجلات</string>
   <string name="settings_about_author_info">
  <![CDATA[
-<h5>تطبيق Seafile لنظام أندرويد
+<h5>تطبيق DriveSpace لنظام أندرويد
 <p>%s</p>
 <h5>اتصل بنا</h5>
 <p>
-    تويتر: Seafile<br>
-    البريد الإلكتروني: support@seafile.com<br>
+    تويتر: DriveSpace<br>
+    البريد الإلكتروني: support@drive.space<br>
 </p>
 <h5>المساهمات</h5>
 <p>https://github.com/haiwen/seadroid.git</P>
-<h5>حقوق النشر ©2013-2023 Seafile Ltd.</h5>
+<h5>حقوق النشر ©2013-2023 DriveSpace Ltd.</h5>
  ]]></string>
   <string name="settings_advance_feature_title">الميزات المتقدمة</string>
   <string name="settings_transfer_title">التحميل والتنزيل</string>
@@ -467,7 +467,7 @@
   <string name="saf_thumbnail_not_found_exception">فشل العثور على الصورة المصغرة أو فتحها %s.</string>
   <string name="saf_file_not_downloaded_exception">لم يتمكن من تنزيل الملف %s من الخادم.</string>
   <string name="saf_write_diretory_exception">لا يمكن فتح المجلد للقراءة / الكتابة.</string>
-  <string name="saf_account_not_found_exception">لم يعثر على حساب Seafile.</string>
+  <string name="saf_account_not_found_exception">لم يعثر على حساب DriveSpace.</string>
   <string name="saf_upload_path_not_available">غير قادر على التحميل، لا يوجد مسار متاح</string>
   <string name="saf_failed_to_create_directory">تعذر إنشاء المجلد %s</string>
   <string name="saf_file_exist">هذا الملف موجود بالفعل</string>
